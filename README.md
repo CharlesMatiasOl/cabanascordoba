@@ -4,6 +4,14 @@ Plataforma web para **alquiler de cabañas**
 
 ---
 
+<img width="1019" height="910" alt="cc" src="https://github.com/user-attachments/assets/4316447f-42fd-4e9e-b5ad-ed3589fba238" />
+<img width="1019" height="870" alt="ca1" src="https://github.com/user-attachments/assets/2ef91e55-5fec-43dc-a28d-98b7d7f7837e" />
+<img width="1019" height="909" alt="ca2" src="https://github.com/user-attachments/assets/eefc26b0-e4e3-4bf9-a9cf-f19ea3cb0834" />
+<img width="1019" height="820" alt="ca3" src="https://github.com/user-attachments/assets/52efc31f-cb11-4e8f-9dea-4ad1cf4a8851" />
+<img width="1019" height="903" alt="ca4" src="https://github.com/user-attachments/assets/3eb3390c-9652-41bf-b437-89c78d59e146" />
+<img width="1019" height="907" alt="ca5" src="https://github.com/user-attachments/assets/271ac02c-56cc-48c2-aa35-f509153639a7" />
+
+
 ## Funcionalidades
 
 ### Sitio público
